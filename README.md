@@ -5,7 +5,7 @@
 # verificación de balance y recorrido por niveles, así como aplicaciones reales como reservas de asientos,
 # gestión de inventario y recomendaciones turísticas con IA.
 #
-# 🧑‍🏫 Docente:
+ 🧑‍🏫 Docente:
 # - Nombre del docente: Garamendi Sarmiento, Elliot Leo
 #
 # 🧑‍🎓 Alumnos:
