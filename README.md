@@ -82,8 +82,7 @@
 # -----------------------------------------
 # 🌐 Repositorio:
 #
-# [GitHub Repo] → Reemplaza con tu URL real: [https://github.com/usuario/repositorio-avl](https://github.com/alent123/semana12.git)
-#
+#  https://github.com/alent123/semana12.git
 # -----------------------------------------
 # 📬 Contacto:
 #
